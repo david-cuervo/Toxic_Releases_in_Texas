@@ -16,3 +16,5 @@ Do poorer neighborhoods or predominantly minority neighborhoods have more pounds
 ### Exploratory Data Analysis
 Identified top 10 most polluted counties
 
+![Counties with Most Releases](Users/davidcuervo/Downloads/counties_texas.png?raw=true "Counties with Most Releases")
+
