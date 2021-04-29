@@ -26,11 +26,9 @@ Top 10 Chemicals Released
 ![chemicals_texas](https://user-images.githubusercontent.com/57383419/115976231-79c70a00-a531-11eb-92a5-705e64b67b53.png)
 
 ### Results
-- Unsuccessful in building a regression model
 - Built linear and logistic regression, decision tree, and random forest models 
-- Very low accuracies
-- Most accurate was the random forest: 51%
-![feature_importance_capstone](https://user-images.githubusercontent.com/57383419/115976293-0376d780-a532-11eb-8346-10e6401ef882.png)
+- Most accurate was the random forest: 45.22%
+![feature_importance_capstone]()
 
 Important features are unclear
 
