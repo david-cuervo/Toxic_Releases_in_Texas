@@ -28,12 +28,24 @@ Top 10 Chemicals Released
 ### Results
 - Built linear and logistic regression, decision tree, and random forest models 
 - Most accurate was the random forest: 45.22%
-![feature_importance_capstone]()
 
-Important features are unclear
+![feature_importance_revised](https://user-images.githubusercontent.com/57383419/116602572-85c81880-a8f1-11eb-8d31-8a0d34da0575.png)
+
+Top 4 Features 
+
+![American_Indian_bargraph](https://user-images.githubusercontent.com/57383419/116602635-98dae880-a8f1-11eb-88be-69079cd03499.png)
+
+![Population_boxplot](https://user-images.githubusercontent.com/57383419/116602646-9d070600-a8f1-11eb-95a6-98d19e5c951e.png)
+
+![Asian_bargraph](https://user-images.githubusercontent.com/57383419/116602652-9f696000-a8f1-11eb-86d7-123950133caa.png)
+
+![Population_125_PL_boxplot](https://user-images.githubusercontent.com/57383419/116602680-aa23f500-a8f1-11eb-8ba9-f72684d7f3ac.png)
+
 
 ### Conclusions
-- Findings are inconclusive
+- Some relation between poverty and toxins released
+- The higher the Asian population, the less toxins releases in that ZIP code
+- American Indians only make up 1% of the Texan population
 - Future studies could explore:
   - More states, not just Texas
   - The number of actual industries in a neighborhood, not the pounds of toxins released
